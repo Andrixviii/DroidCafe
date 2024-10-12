@@ -3,8 +3,8 @@
     <style name="Base.Theme.DroidCafe" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
 
-        <item name="android:textColorPrimary">@color/white</item>
-        <item name="android:textColorSecondary">@color/white</item>
+<!--        <item name="android:textColorPrimary">@color/white</item>-->
+<!--        <item name="android:textColorSecondary">@color/white</item>-->
     </style>
 
     <style name="Theme.DroidCafe" parent="Base.Theme.DroidCafe" />
